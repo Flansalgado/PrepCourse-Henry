@@ -1,1 +1,1 @@
-Este proyecto es una prueba rápida de como cre un repositorio y clonar de la
+Este proyecto es una prueba rápida de como crear un repositorio y clonarlo desde github a mi computador local.
